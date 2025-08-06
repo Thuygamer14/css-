@@ -1,0 +1,44 @@
+/*
+no css nós expressamos estilos na página.
+exemplo: "o parágrafo deve ser da cor vermelha"
+
+SELETOR (Quem?)
+ATRIBUTO (O que?)
+VALOR (Qual?)
+
+
+
+*/
+body{
+    background-color:rgb(0, 0, 0)
+}
+p{
+    color: rgb(116, 0, 0);
+}
+h1{
+    color: rgb(89, 0, 255);
+}
+h3{
+    color: aquamarine;
+}
+.h12{
+    font-size:xx-large;
+    color: rgb(255, 255, 255);
+    font-family: 'Comic Sans MS';
+text-align: center;
+background-color: rgb(250, 0, 0);
+border: 4px outset blue;
+
+/* solid, dotted, dashed, double, inset, outset */
+
+}
+
+img{
+    border: 4px solid rgb(255, 0, 242) ;
+    border-radius: 50%;
+
+}
+.h11{
+
+    font-family: Comic Sans MS;
+}

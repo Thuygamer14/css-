@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    background: #ff008c;
+background: linear-gradient(90deg, rgba(255, 0, 140, 1) 28%, rgba(0, 0, 0, 1) 49%, rgba(255, 225, 0, 1) 85%);
+    color:rgb(5, 4, 5);
+    border:2px solid rgb(221, 211, 211);
+    margin-top: 50px;
+    margin-right: 1500px;
+    padding: 10px;
+    transition: 0.5s;
+    width: 20%;
+}
+
+body{
+    background-color: rgb(65, 63, 63);
+    width:1;
+    opacity: 1;
+    scale: 1;
+}
+.ponto{
+    font-size: xx-large;
+}
+div:hover{
+ background-color: black;
+ color: ghostwhite;
+ opacity: 1;
+ width:60%;
+}
