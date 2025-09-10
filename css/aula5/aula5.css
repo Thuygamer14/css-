@@ -1,0 +1,44 @@
+.card img{
+
+border-radius: 10px;
+height: 220px;
+width: 500px ;
+}
+.card h2{
+    padding: 0 20px;
+}
+.card h3{
+    padding: 0 20px;
+}
+.card{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 50px;
+    overflow: hidden;
+
+
+}
+.cards{
+    display: flex;
+    gap: 15px
+}
+
+#peak{
+    font-family: "Darumadrop One";
+}
+
+
+@font-face {
+  font-family: 'hollow';
+  src: url('../fonts/TrajanPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#hk{
+    font-family: 'hollow';
+}
